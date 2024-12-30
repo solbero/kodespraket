@@ -1,0 +1,10 @@
+title: Kodespråket
+email: njosol@pm.me
+description: >- # Ignore newlines
+url: "https://kodespraket.no"
+language: no
+
+remote_theme: brolun/jekyll-theme-monty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
