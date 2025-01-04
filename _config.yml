@@ -1,8 +1,18 @@
 title: Kodespråket
-email: njosol@pm.me
+tagline: Språket bak koden
 description: >- # Ignore newlines
-url: "https://kodespraket.no"
-language: no
+url: https://www.kodespraket.no
+locale: nb_NO
+
+author: Njord A. Solberg
+email: njosol@pm.me
+
+social:
+  name: Njord A. Solberg
+  links:
+    - https://solbero.github.io/
+    - https://github.com/solbero
+    - https://no.linkedin.com/in/solbero
 
 remote_theme: brolun/jekyll-theme-monty
 plugins:
