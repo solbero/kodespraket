@@ -14,7 +14,7 @@ Avløserordene *avluser* og *lus* er ikke noen nye oversettelser for ‘debugger
 
 > Hver gang den [kompilatoren] kommer til en syntakstisk feil, skriver den dessuten en melding om dette. Ved hjelp av disse meldingene kan vi senere foreta retting av våre programkort, og denne slags program-retting kalles blant programmører “debugging” eller avlusing av program.
 
-Utover 90-tallet så forsvinner *avluser* og *lus* sakte men sikkert fra fagbøker og -artikler. Hovedgrunnen til dette er mest sannsynlig at engelsk får større og større påvirkingskraft etterhvert som Internet blir hovedkilden til kunnskap om programmering og datateknologi. På 2000-tallet er ordene utelukkende brukt i sammengen med laks og oppdrettsnæring.
+Utover 90-tallet så forsvinner *avluser* og *lus* sakte men sikkert fra fagbøker og -artikler. Hovedgrunnen til dette er mest sannsynlig at engelsk får større og større påvirkingskraft etterhvert som Internet blir hovedkilden til kunnskap om programmering og datateknologi. På 2000-tallet er ordene utelukkende brukt i sammenheng med laks og oppdrettsnæring.
 
 <figure>
   <img src="/assets/images/innforing-i-edb.png" alt="Tegnet illustrasjon som viser omslaget til boken *Innføring i EDB*">
