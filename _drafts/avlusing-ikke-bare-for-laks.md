@@ -10,7 +10,7 @@ title: Avlusning, ikke bare for laks
   <figcaption>Det er aldri kjekt å finne lus på datamaskinen.</figcaption>
 </figure>
 
-Avløserordene *avluser* og *lus* er ikke nye oversettelser jeg har funnet på for ‘debugger’ og ‘bug’. Dette er ord som tidligere har blitt flittig brukt som fagtermer innen datateknologi. Et søk i Nasjonalbibliotekets arkiver viser at ordene ble mest brukt på 70- og 80-tallet. Boken *Innføring i EDB*, utgitt av Norsk Regnesental i 1970, er det tidligste eksempelet jeg fant der termen *avlusing* er benyttet:
+*Avluser* og *lus* er ikke nye oversettelser jeg har funnet på for ‘debugger’ og ‘bug’. Dette er ord som tidligere har blitt flittig brukt som fagtermer innen datateknologi. Et søk i Nasjonalbibliotekets arkiver viser at ordene ble mest brukt på 70- og 80-tallet. Boken *Innføring i EDB*, utgitt av Norsk Regnesental i 1970, er det tidligste eksempelet jeg fant der termen *avlusing* er benyttet:
 
 > Hver gang den [kompilatoren] kommer til en syntakstisk feil, skriver den dessuten en melding om dette. Ved hjelp av disse meldingene kan vi senere foreta retting av våre programkort, og denne slags program-retting kalles blant programmører “debugging” eller avlusing av program.
 
@@ -25,4 +25,4 @@ Det at lus er så alment kjent og dagligdags problem betyr at det finnes mange r
 
 Vi kan også snakke om *lusebekjempelse* hvis vi må ta et skikkelig krafttak for å fikse opp i en kodebase. Da må vi kverke, knuse og ta knekken på lusene. Hvis ikke, så tar lusene til slutt helt overhånd og vi har en *luseinvasjon*!
 
-Så neste gang du tenker på å ‘debugge’ programkoden din, avlus den i stedet! Og kanskje, hvis du er dyktig, så klarer du å bli kvitt alle lusene.
+Så neste gang du tenker på å debugge programkoden din, avlus den i stedet! Og kanskje, hvis du er dyktig, så klarer du å bli kvitt alle lusene.
