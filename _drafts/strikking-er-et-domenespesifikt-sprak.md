@@ -10,4 +10,4 @@ Hvis du ikke kan lesestrikkeoppskrifter, så må nok dette fremstå som kauderve
 
 Men hva minner dette meg om? Jo, dette er jo et programmeringsspråk. Her er det lister som blir indeksert på plassnummer. Det er *while*-løkker med som gjentar en operasjon inntil et vilkår er oppfylt. Og mønsteret det refereres til er en funksjon som tar hvilken rekke strikkeren er på og gir tilbake en liste med maskesymboler for den rekken. Strikkeoppskriften er rett og slett en serie imperative, symbolske operajoner. Det er egentlig ingen vesentlig forskjell mellom strikkeopskriften over og denne en bit Python-kode
 
-Vi kan også utrykke oppskriften visuelt. Da er en hvit rute en rettmaske og en svart rute en vrangmaske.
+Vi kan også utrykke oppskriften visuelt som et strikkediagram. Da er en hvit rute en rettmaske og en svart rute en vrangmaske. Resultatet blir slik:
