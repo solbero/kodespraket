@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avlusning, ikke bare for laks
+title: Avlusing, ikke bare for laks
 ---
 
 «Fikk du *debugget* koden?», spurte en kollega. «Joda, jeg fant noen *bugs*», svarte jeg. Men de engelske ordene ‘debugger’ og ‘bug’ klinger dårlig på norsk. Heldigvis finnes det to ord som kan brukes i stedet, nemlig *avluser* og *lus*. Ordene leder tanken mot ekle kryp som må fjernes for enhver pris. På samme måte som hodelus fjernes med å finkjemme håret med en lusekam, så fjernes programlus ved å finkjemme programkoden med en *avluser*.
@@ -21,7 +21,7 @@ Utover 90-tallet så forsvinner *avluser* og *lus* sakte men sikkert fra fagbøk
   <figcaption>Omslaget til boken <em>Innføring i EDB</em> fra 1970.</figcaption>
 </figure>
 
-Det at lus er så alment kjent og dagligdags problem betyr at det finnes mange relaterte ord og begreper vi kan bruke for å metaforisk beskrive programfeil og feilretting. Tenk deg at kollegaen din utbryter: «Koden din trenger en skikkelig *lusekur*, den er jo befengt med lus!». Du vil ikke være i tvil med tanke på hva hun mener. Eller hvis sjefen sier: «Vi må aksepterer at det er noen *lus* i applikasjonen, eller så klarer vi aldri å få den rullet ut til tidsfristen.»
+Det at lus er så alment kjent og dagligdags problem betyr at det finnes mange relaterte ord og begreper vi kan bruke for å metaforisk beskrive programfeil og feilretting. Tenk deg at kollegaen din utbryter: «Koden din trenger en skikkelig *lusekur*, den er jo befengt med lus!». Du vil ikke være i tvil om hva hun mener. Eller hvis sjefen sier: «Vi må akseptere at det er noen *lus* i applikasjonen, eller så klarer vi aldri å få den rullet ut til tidsfristen.»
 
 Vi kan også snakke om *lusebekjempelse* hvis vi må ta et skikkelig krafttak for å fikse opp i en kodebase. Da må vi kverke, knuse og ta knekken på lusene. Hvis ikke, så tar lusene til slutt helt overhånd og vi har en *luseinvasjon*!
 
