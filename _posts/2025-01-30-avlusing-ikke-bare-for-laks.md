@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Avlusing, ikke bare for laks
+image: /assets/images/lakselus-paa-apple-128.png
 ---
 
 «Fikk du *debugget* koden?», spurte en kollega. «Joda, jeg fant noen *bugs*», svarte jeg. Men de engelske ordene ‘debugger’ og ‘bug’ klinger dårlig på norsk. Heldigvis finnes det to ord som kan brukes i stedet, nemlig *avluser* og *lus*. Ordene leder tanken mot ekle kryp som må fjernes for enhver pris. På samme måte som hodelus fjernes med å finkjemme håret med en lusekam, så fjernes programlus ved å finkjemme programkoden med en *avluser*.

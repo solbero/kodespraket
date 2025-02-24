@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strikking er programmering
+image: /assets/images/jacquard-vevstol.webp
 ---
 
 Strikking er inn om dagen. Bestemor strikker, madammen strikker, og jeg strikker. Men for å strikke noe i det hele tatt så må jeg ha en oppskrift. Under ser du for eksempel begynnelsen til en oppskrift for å strikke en genser:
