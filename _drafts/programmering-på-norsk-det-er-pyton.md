@@ -14,9 +14,11 @@ Men dette er egentlig ikke så merkelig. Forskningen innen informatikk og utvikl
 Et mål med å et norsk programmeringsspråk må være at flest mulig handlinger
 
 Datatypen _integer_, ofte forkortet _int_, er et engelsk ord som ikke er blitt et låneord, selv om det til en viss grad er blitt innarbeidet som begrep i infomatikk. Tallmengden __Z__, som ordet _integer_ peker, er heltallene. Typen bør da hete heltall i et norsk programmeringspråk. Dette kodeeksempelet fra Go `var number int32 = 2147483647` ville blitt `var tall heltall32 = 2147483647`.
+</dd>
 
-
-Dette betyr også at språket må støtte de norske bokstavene Æ, Ø og Å. Det skal ikke være nødvendig å skrive AE, OE og AA.
+<dt>Støtte norske bokstaver</dt>
+<dd markdown="1">
+Som en følge av puntket over, så må boksavene Æ, Ø og Å være støttet i tegnettet som brukes av programmeringsspråket. Det skal ikke være nødvendig å skrive AE, OE og AA. I praksis betyr det at programmeringspråket bruker Unicode som tegnsett.
 </dd>
 
 <dt>Korte verb bøyd i imperativ for handlinger</dt>
