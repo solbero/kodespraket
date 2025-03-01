@@ -1,4 +1,9 @@
 {
 	"name": "Jekyll",
-	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye"
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+	"features": {
+		"ghcr.io/guiyomh/features/just:0": {
+			"version": "latest"
+		}
+	}
 }
