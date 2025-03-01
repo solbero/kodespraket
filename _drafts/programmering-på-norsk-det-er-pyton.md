@@ -14,11 +14,13 @@ Men dette er egentlig ikke så merkelig. Forskningen innen informatikk og utvikl
 Et mål med å et norsk programmeringsspråk må være at flest mulig handlinger
 
 Datatypen _integer_, ofte forkortet _int_, er et engelsk ord som ikke er blitt et låneord, selv om det til en viss grad er blitt innarbeidet som begrep i infomatikk. Tallmengden __Z__, som ordet _integer_ peker, er heltallene. Typen bør da hete heltall i et norsk programmeringspråk. Dette kodeeksempelet fra Go `var number int32 = 2147483647` ville blitt `var tall heltall32 = 2147483647`.
+
+Streng er innarbeidet på norsk som et låneord i programmering og i matematikken. Det er ikke hensiksmessig å kalle denne datatypen for en tegnkjede.
 </dd>
 
 <dt>Støtte norske bokstaver</dt>
 <dd markdown="1">
-Som en følge av puntket over, så må boksavene Æ, Ø og Å være støttet i tegnettet som brukes av programmeringsspråket. Det skal ikke være nødvendig å skrive AE, OE og AA. I praksis betyr det at programmeringspråket bruker Unicode som tegnsett.
+Som en følge av puntket over, så må boksavene Æ, Ø og Å være støttet i tegnettet som brukes av programmeringsspråket. Det skal ikke være nødvendig å skrive AE, OE og AA. I praksis betyr det at programmeringspråket bruker Unicode som tegnsett. Hvis du vil ha `blåbørsyltetøy` som et variabelnavn så skal det være greit.
 </dd>
 
 <dt>Korte verb bøyd i imperativ for handlinger</dt>
@@ -29,22 +31,41 @@ Et eksempel fra C er funksjonen `fork()` som starter en ny prosess. Ordet _fork_
 <dt>Korte substantiver for ting</dt>
 <dd markdown="1">
 </dd>
+
+<dt>Matematikk er matematikk, det er et eget språk</dt>
+<dd markdown=1>
+Symboler og utrykk som kommer fra matematikken trenger ikke å oversettes. Det e rikke nødvendig å oversette matematiske operatorer til norsk. Tegnet `/` er dele, det skal ikke byttes ut med et norskt nøkkelord som `dele`. `10 / 2 = 5` er et korrekt utrykk og ikke `10 del 2 erlik 5` skal skrives slik og ikke som minus. `1 + 1` er riktig, og skal ikke skrives ut på norsk som `en pluss en`
+</dd>
+
 </dl>
 
 Mitt inntrykk er at det er veldig mange utviklerer som får sure oppstøt hvis de ser norsk i kildekode. Hvis jeg hadde hatt følgende variabeltildeling
 
 ```
-string[] colors = {"red", "green", "blue"};
-foreach (string color in colors)
+public class Colors
 {
-  Console.WriteLine(color);
+  private readonly List<string> colors = new() {"red", "green", "blue"};
+
+  public void List()
+  {
+    foreach (string color in colors)
+    {
+      Console.WriteLine(color);
+    }
+  }
 }
 ```
 
 ```
-streng[] farger = {"rød", "grønn", "blå"};
-forhver (streng farge i farger)
+offentlig klasse Farger
 {
-  Konsoll.SkrivLinje(farge);
-}
+  privat lesebeskyttet Liste<streng> farger = ny() {"rød", "grønn", "blå"};
+
+  offentlig tom RamsOpp()
+  {
+    forhver (streng farge av farger)
+    {
+      Konsoll.SkrivLinje(farge);
+    }
+  }
 ```
