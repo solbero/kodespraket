@@ -1,12 +1,25 @@
 ---
 layout: post
-title: Koding på norsk, det er pyton!
-image:
+title: Koding på norsk, det er pyton — Første del
+image: /assets/images/demonstrasjon-for-norsk.webp
 ---
 
-I jobben min som utvikler skriver jeg mye på engelsk. Jeg skriver kode som har nøkkelord og innebygde funksjoner på engelsk, kodekommentarer på engelsk og dokumentasjon på engelsk. Men med tanke på at jeg arbeider i et team der alle kollegaene har norsk som morsmål og kunden er en norsk, offentlig etat så burde jeg egentlig i hovedsak skrive på norsk.
+Bygge opp argument
+ * Programmering er et eget språk, likt som matematikk
+ * Kunne jeg skrevet alt på norsk? Ville fort møtt motstand
+ * Blir vanskelig å referere, blir fort en blanding og mangler fagbegreper
+ * Utviklet i engelsktalende land, kunne sett for oss at utviklingen skjedde i sovjet og på russisk.
+ * Bedre fortåelse på morsmål
+ * Løsningen er et norsk programmeringsspråk
+
+I jobben min som utvikler skriver jeg mye på engelsk. Jeg skriver kode som har nøkkelord og innebygde funksjoner på engelsk, kodekommentarer på engelsk og dokumentasjon på engelsk.
 
 Men dette er egentlig ikke så merkelig. Forskningen innen informatikk og utviklingen av programmeringsspråk har vært drevet fram av engelskspråkelige institusjoner og bedrifter. Presset for at
+
+<figure>
+  <img src="/assets/images/demonstrasjon-for-norsk.webp" alt="Tegnet illustrasjon som viser en demonstrasjon hvor deltagerne holder opp plakater" />
+  <figcaption>Demonstrasjon for mer bruk av norsk i kildekode.</figcaption>
+</figure>
 
 <dl>
 <dt>Bruk norske ord, med mindre det engelske ordet er blitt et låneord</dt>
