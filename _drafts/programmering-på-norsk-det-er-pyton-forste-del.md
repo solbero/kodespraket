@@ -4,23 +4,25 @@ title: Koding på norsk, det er pyton! — Første del
 image: /assets/images/demonstrasjon-for-norsk.webp
 ---
 
-I jobben min som utvikler skriver og leser jeg mye engelsk. Det er nøkkelord og variabelnavn på engelsk, kodekommentarer og dokumentasjon på engelsk, samt nettpratmeldinger og e-poster på engelsk.
+I jobben min som utvikler skriver og leser jeg mye engelsk. Jeg leser og skriver nøkkelord og variabelnavn på engelsk, kodekommentarer og dokumentasjon på engelsk, samt nettpratmeldinger og e-poster på engelsk.
 
-Men må jeg egentlig å skrive så mye på engelsk? Er egentlig ikke programmeringsspråk selvstendige språk, med eget vokabular, grammatikk og syntaks? I tillegg er mange deler av programmeringsspråk modelert på matematisk notasjon. De deler symboler, notasjon og uttrykk. Matematisk notasjon kan sømløst brukes sammen med naturlige språk, for eksempel norsk, som vist i dette utdraget fra _Store norske leksikon_ om grenser:
-
-> Om vi har en funksjon 𝑓 : ℝ→ℝ, sier vi at «𝑓 har grensen 𝑨 når 𝑥 nærmer seg et tall 𝑎» dersom 𝑓(𝑥) kan komme vilkårlig nær 𝑨 for alle 𝑥 nær 𝑎.
-
-Notasjonen er matematisk, ordene er på norsk. Fra dette følger det at jeg brude kunne gjøre noe tilsvarende i programmeringsspråk, hvis de er selvstendige språk. Så denne biten med Python-kode burde være uproblematisk:
-
-Mitt inntrykk er at det er veldig mange utviklerer som får sure oppstøt hvis de ser norsk i kildekode. Hvis jeg hadde hatt følgende variabeltildeling
+Men må jeg egentlig å skrive og lese så mye engelsk? Dette er et _modus operandi_ jeg har akseptert, men uten å stille spørsmål ved det. Hva om jeg forkaster _status quo_, setter all høflighet til side, og skriver koden på norsk?
 
 ```python
-# Åpne filen som inneholder værdata og skriv ut hver linje fra filen
+# Åpne filen som inneholder værdata og skriv ut hver linje
 filnavn = værdata.txt
 with open(filnavn) as fil:
     for linje in fil:
         print(linje)
 ```
+
+Hadde denne kodesnutten dukket opp i en endringsforespørsel tror jeg det er mange utviklere som hadde fått et surt oppstøt og deretter hadde avslått endringsforespørselen.
+
+Men hvorfor opplever mange utviklere det som problematisk å bruke norske ord i kildekode? For er ikke programmeringsspråk egentlig selvstendige språk, med eget vokabular, grammatikk og syntaks? Hvis dette er tilfelle, så burde det ikke ha noe å si hva språk jeg blander det med. Som et eksemple på dette er matematisk notasjon. Det kan sømløst brukes sammen med naturlige språk, for eksempel norsk, som vist i dette utdraget fra _Store norske leksikon_:
+
+> Om vi har en funksjon 𝑓 : ℝ→ℝ, sier vi at «𝑓 har grensen 𝑨 når 𝑥 nærmer seg et tall 𝑎» dersom 𝑓(𝑥) kan komme vilkårlig nær 𝑨 for alle 𝑥 nær 𝑎.
+
+Notasjonen er matematisk, ordene er på norsk. Fra dette følger det at jeg brude kunne gjøre noe tilsvarende i programmeringsspråk, hvis de er selvstendige språk. Så denne biten med Python-kode burde være uproblematisk:
 
 Hadde jeg prøvd å skive kode som det over i kodebasene som jeg jobber på så hadde det for blitt friksjon mellom meg og mine kollegaer og fort blitt hett.
 
@@ -69,8 +71,9 @@ Som en følge av puntket over, så må boksavene Æ, Ø og Å være støttet i t
 Et eksempel fra C er funksjonen `fork()` som starter en ny prosess. Ordet _fork_ i betydningen ‘dele seg’ oversettes på norsk til _forgrene_. Men denne oversettelsen mener jeg blir for lang og krongelete. I imperativform har ordet _forgren_ to stavelser og syv bokstaver, ordet _fork_ har kun én stavelse og fire bokstaver. En bedre oversettelse mener jeg er ordet _skille_ med imperativform _skill_. Både _fork_ og _skille_ deler tankeinnhold, de betegner noe i verden som var én, men nå er blitt to. Et eksempel er _a fork in the road_ ‘et veiskille’.
 </dd>
 
-<dt>Korte substantiver for ting, samskriv når du skal</dt>
+<dt>Korte substantiver for ting, samskriv når du kan</dt>
 <dd markdown="1">
+En av superkreftene til norsk er at vi kan sammenskrive substantiv. Vi kan skrive ord som _utenriksdepartementsrapport_ hvis engelsktalende må skrive _report by the ministry of foreign affairs_.
 Bruk samskriving når dette er riktig. I norsk så samskriver vi substantiver, til forskjell fra engelsk. Samskriving tydligjør også hva som er data og hva som er oprasjoner. Foreksempel så vil en `.csv`-fil med bildata bli lastet inn som variabelen `bildata` og ikke `car_data` som på engelsk. Hvis denne listen blir filtert så blir det norske variabelnavnet `filtert_bildata` og ikke `filtered_car_data`. Dette gjør det tydelig hva som er data, og hva som er operasjoner. Ved å legge flere opreasjoner ville det blitt `reversert_sortert_filtert_bildata` som er veldig veldig lebard, og det er også tydlig hvilken rekkefølge operasjonene ble gjort i. Et mer innfløkt eksempel kan være `bilforhandlermatrise` som ville blitt `car_dealership_matrix` på engelsk.
 
 Bruker understrek for mellomrom, og ikke _camelCase_ eller _PascalCase_.
