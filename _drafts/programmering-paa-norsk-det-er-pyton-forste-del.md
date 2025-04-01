@@ -4,9 +4,9 @@ title: Koding på norsk, det er pyton! — Første del
 image: /assets/images/demonstrasjon-for-norsk.webp
 ---
 
-I jobben min som utvikler skriver og leser jeg mye engelsk. Det er nøkkelord og variabelnavn på engelsk, kodekommentarer og dokumentasjon på engelsk, samt nettpratmeldinger og e-poster på engelsk.
+I jobben min som utvikler skriver og leser jeg mye engelsk. Det er nøkkelord og variabelnavn på engelsk, kodekommentarer og dokumentasjon på engelsk, nettpratmeldinger og e-poster på engelsk.
 
-Men må jeg virkelig skrive og lese så mye engelsk? Dette et _modus operandi_ jeg har akseptert uten å stille spørsmål ved det. Hva om jeg forkaster _status quo_, setter all høflighet til side, og skriver kode på norsk? Hva er det verste som kan skje? Vel, muligens dette…
+Men må jeg virkelig skrive og lese så mye engelsk? Dette er et _modus operandi_ jeg har akseptert uten å stille spørsmål ved det. Hva om jeg forkaster _status quo_, setter all høflighet til side, og skriver kode på norsk? Hva er det verste som kan skje? Vel, muligens dette…
 
 ```python
 # Åpne filen som inneholder værdata og skriv ut hver linje fra datafilen
@@ -16,36 +16,27 @@ with open(filnavn) as fil:
         print(linje)
 ```
 
-Hadde denne kodesnutten dukket opp i en endringsforespørsel tror jeg det er mange utviklere som hadde fått et surt oppstøt, svelgt et par ganger for å få vekk den onde smaken i munnen og deretter gått bort og tatt en alvorsprat med opphavet til koden.
+Hadde denne kodesnutten dukket opp i en endringsforespørsel tror mange utviklere hadde fått et surt oppstøt. Etter å ha svelget et par ganger, for å få vekk den vonde smaken i munnen, ville de fleste gått sporenstreks bort til opphavet av koden og tatt en alvorsprat.
 
-
-Men hvorfor opplever mange utviklere det problematisk å bruke norsk i kildekode? For er ikke programmeringsspråk egentlig en type notasjon for datamaskiner? Hvis dette er tilfelle, så burde det ikke ha noe å si hva naturlig språk jeg bruker sammen med et programmeringsspråk. Matematisk notasjon, for eksempel, kan sømløst brukes sammen med et naturlige språk uten å skape uklang. Det er få som ville reagert på blandingen av norsk og matematematisk notasjon i dette utdraget fra _Store norske leksikon_:
+Men hvorfor opplever mange utviklere det problematisk å bruke norsk i kildekode? For er ikke programmeringsspråk egentlig en type notasjon for datamaskiner? Hvis dette er tilfelle, så burde det ikke ha noe å si hva språk jeg bruker sammen med et programmeringsspråk. Matematisk notasjon, for eksempel, kan sømløst brukes sammen med et naturlig språk uten å skape ulyd. Det er få som ville reagert på blandingen av norsk og matematisk notasjon i dette utdraget fra _Store norske leksikon_:
 
 > Om vi har en funksjon 𝑓 : ℝ→ℝ, sier vi at «𝑓 har grensen 𝑨 når 𝑥 nærmer seg et tall 𝑎» dersom 𝑓(𝑥) kan komme vilkårlig nær 𝑨 for alle 𝑥 nær 𝑎.
 
-Her utfyller språk og notasjon hverandre i en vakker vals. Men hvorfor opplever vi da at naturlige språk og programmeringsspråk blir å tråkke hverandre på tærne hvis vi prøver å sette dem sammen? Grunnen, mener jeg, er at programmeringsspråk ikke er en form for notasjon eller et eget språk. Programmeringsspråk er faktisk skrevet på et naturlig språk, og dette språket er engelsk!
+Her utfyller språk og notasjon hverandre i en vakker vals. Hvorfor opplever vi da at norsk og programmeringsspråk blir å tråkke hverandre på tærne hvis vi prøver å sette dem sammen på samme vis? Grunnen, mener jeg, er at programmeringsspråk ikke er en form for notasjon eller et eget datamaskinspråk. Programmeringsspråk er faktisk skrevet på et naturlig språk og dette språket er engelsk!
+
+Ser vi på den historiske utviklingen til moderne programmeringsspråk så er den engelske dominansen ikke så merkelig. Det var engelskspråkelige institusjoner og bedrifter, i hovedsak fra USA, som drev utviklingen og forskningen innen fagfeltet informatikk. I dag er engelsk så dominerende at selv programmeringsspråk utviklet av ikke-engelsktalende personer er på engelsk. Ruby, laget av japaneren Yukihiro "Matz" Matsumoto, og Python, laget av nederlenderen Guido van Rossum, er begge på engelsk.
+
+Vi utviklere liker å tro at vi behersker engelsk godt, både skriftlig og muntlig, men det er ikke nødvendigvis rett. Jeg tror vi utviklere, når vi vurderer våre engelskferdigheter, lider av eksponeringsbias. Det betyr at vi tror vi er bedre til engelsk enn vi egentlig er, og grunnen til at vi tror dette er fordi at vi er blitt så mye eksponert for det engelske språket.
 
 <figure>
   <img src="/assets/images/demonstrasjon-for-norsk.webp" alt="Tegnet illustrasjon som viser en demonstrasjon hvor deltagerne holder opp plakater" />
   <figcaption>Demonstrasjon for mer bruk av norsk i programmeringspråk og kildekode.</figcaption>
 </figure>
 
-Ser vi på den historiske utviklingen til moderne programmeringsspråk så er den engelske dominansen egentlig ikke så merkelig. Det er engelskspråkelige institusjoner og bedrifter, i hovedsak fra USA, som har drevet utviklingen av, og forskningen innen infomatikk. I dag er engelsk så dominerende innen fagfeltet at selv programmeringsspråk utviklet av ikke-engelsktalende personer er på engelsk. Ruby, laget av japaneren Yukihiro "Matz" Matsumoto, og Python, laget av nederlenderen Guido van Rossum, er begge på engelsk.
+Mye tyder på at vi forstår programmering bedre på morsmål enn på engelsk. En svensk [studie](https://www.degruyter.com/document/doi/10.1515/applirev-2022-0093/html), publisert i 2023, gir belegg for denne påstanden. I studien ble litt over 2000 svenske studenter, som tok et introduksjonsfag i programmering, tilfeldig plassert i én av to grupper: en gruppe hvor pensum var på svensk og en gruppe hvor pensum var på engelsk. Studentene som fikk pensum på svensk gjorde det bedre på en avsluttende prøve i faget sammenlignet med de studentene som fikk pensum på engelsk. I tillegg hadde svenske gruppen førre frafall sammenlignet med den engelske gruppen.
 
-Men historien kunne vært anderledes. På midten av 19-hundretallet eksisternte det en nasjon som utfordret USA på mange områder, nemlig Sovjetunionen. Hvis Sovjetunionen hadde blitt den toneangivende lederen innen informatikk, så hadde vi utviklere sett det som like naturlig å skrive kode på russik som vi i dag skriver kode på engelsk. Da hadde dette kodeeksempelet, i programmeringsspråket Эль-76, oppleves som helt naturlig.
+Med andre ord, det er mye som tyder på at å kode mer på norsk kan gi positive effekter. Men selv om utviklere blir presentert for disse gode argumentene, så tror jeg de fleste fortsatt vil foretrekke å skrive kode på engelsk. Jeg blir i hvert fall å fortsette å skrive koden min på engelsk. Grunnen til det er at å blande norsk og for eksempel Java i samme kodelinje er like fælt som å blande fransk og tysk i samme setning.
 
-```
-начало
-  ф32 a := 1, b := a * 5 - 2, c;
-  конст d = 1, e = 2;
+Men hvordan skal det da bli mer norsk i kildekode, hvis ikke engang jeg har lyst til å blande norsk og et engelsk i min egen kildekode? Det eksisterer faktisk kun én løsning på dette problemet: selve programmeringsspråket må være på norsk!
 
-  c := a + b - d - e;
-  печать(c)
-конец
-```
-
-Vi utviklere liker å tro at vi behersker engelsk godt, men det er ikke nødvendigvis sant. Her lider nok vi utviklere av eksponeringsbias, som betyr at vi tror vi er bedre til noe enn vi egentlig er fordi at vi er blitt så mye ekspornert for det. Vi forstår faktisk ting bedre på morsmål enn på engelsk. En svensk [studie](https://www.degruyter.com/document/doi/10.1515/applirev-2022-0093/html), publisert i 2023, gir belegg for denne påstanden. I studien ble litt over 2000 svenske studenter, som tok et introduksjonsfag i programmering, tilfeldig plassert i én av to grupper: i den ene gruppen ble pensum gitt på svensk, i den andre ble det gitt på engelsk. Studentene som fikk pensum på engelsk gjorde det bedre på en avsluttende prøve i faget sammelinget med de studentene som fikk pensum på engelsk. Den svenske gruppen hadde også mindre frafall sammelinget med den engelske gruppen.
-
-Selv om det er mye som tyder på at å programmere på norsk gir mange psoitive effekter, så vil nok de fleste utviklere i dag foretrekke å skrive på engelsk. Å blande norsk og Java i en kodelinje blir like skingrende som å blande tysk og fransk i en setning. Gitt at dette er realiteten, så gjenstår det kun én løsning for å fjerne konflikten mellom norsk og engelsk i kildekode: programmeringsspråket må være på norsk!
-
-I andre del av denne artikkelserien vil jeg designe og lage et programmeringsspråk på norsk. Så da er det bare å glede, grue eller gruglede seg til det.
+I andre del av denne artikkelen vil jeg designe og implementere et norsk programmeringsspråk! Det er bare å begynne å glede, grue eller gruglede seg.

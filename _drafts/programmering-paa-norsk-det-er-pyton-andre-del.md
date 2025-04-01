@@ -1,3 +1,15 @@
+Men vi må huske på at historien kunne vært anderledes. På midten av nittenhundretallet eksisterte det en nasjon som utfordret USA på mange områder, også innen informatikk. Denne nasjonen var Sovjetunionen. Hvis Sovjetunionen hadde blitt den toneangivende lederen innen utvilkingen av programmeringsspråk, så hadde nok vi utviklere sett det som like naturlig å skrive kode på russisk som vi i dag skriver kode på engelsk. Da hadde dette kodeeksempelet, i programmeringsspråket Эль-76, oppleves som helt naturlig.
+
+```
+начало
+  ф32 a := 1, b := a * 5 - 2, c;
+  конст d = 1, e = 2;
+
+  c := a + b - d - e;
+  печать(c)
+конец
+```
+
 <dl>
 <dt>Bruk norske ord, med mindre det engelske ordet er blitt et låneord</dt>
 <dd markdown="1">
