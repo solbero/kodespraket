@@ -10,7 +10,7 @@ Men må jeg virkelig skrive og lese så mye engelsk? Dette er et _modus operandi
 
 ```python
 # Åpne filen som inneholder værdata og skriv ut hver linje fra datafilen
-filnavn = værdata.txt
+filnavn = "værdata.txt"
 with open(filnavn) as fil:
     for linje in fil:
         print(linje)
@@ -33,7 +33,7 @@ Vi utviklere liker å tro at vi behersker engelsk godt, både skriftlig og muntl
   <figcaption>Demonstrasjon for mer bruk av norsk i programmeringspråk og kildekode.</figcaption>
 </figure>
 
-Mye tyder på at vi forstår programmering bedre på morsmål enn på engelsk. En svensk [studie](https://www.degruyter.com/document/doi/10.1515/applirev-2022-0093/html), publisert i 2023, gir belegg for denne påstanden. I studien ble litt over 2000 svenske studenter, som tok et introduksjonsfag i programmering, tilfeldig plassert i én av to grupper: en gruppe hvor pensum var på svensk og en gruppe hvor pensum var på engelsk. Studentene som fikk pensum på svensk gjorde det bedre på en avsluttende prøve i faget sammenlignet med de studentene som fikk pensum på engelsk. I tillegg hadde svenske gruppen førre frafall sammenlignet med den engelske gruppen.
+Mye tyder på at vi forstår programmering bedre på morsmål enn på engelsk. En svensk [studie](https://www.degruyter.com/document/doi/10.1515/applirev-2022-0093/html), publisert i 2023, gir belegg for denne påstanden. I studien ble litt over 2000 svenske studenter, som tok et introduksjonsfag i programmering, tilfeldig plassert i én av to grupper: en gruppe hvor pensum var på svensk og en gruppe hvor pensum var på engelsk. Studentene som fikk pensum på svensk gjorde det bedre på en avsluttende prøve i faget sammenlignet med de studentene som fikk pensum på engelsk. I tillegg hadde svenske gruppen større frafall sammenlignet med den engelske gruppen.
 
 Med andre ord, det er mye som tyder på at å kode mer på norsk kan gi positive effekter. Men selv om utviklere blir presentert for disse gode argumentene, så tror jeg de fleste fortsatt vil foretrekke å skrive kode på engelsk. Jeg blir i hvert fall å fortsette å skrive koden min på engelsk. Grunnen til det er at å blande norsk og for eksempel Java i samme kodelinje er like fælt som å blande fransk og tysk i samme setning.
 
