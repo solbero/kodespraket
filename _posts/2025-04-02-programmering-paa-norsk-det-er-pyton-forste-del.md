@@ -39,4 +39,4 @@ Med andre ord, det er mye som tyder på at å kode mer på norsk kan gi positive
 
 Men hvordan skal det da bli mer norsk i kildekode, hvis ikke engang jeg har lyst til å blande norsk og et engelsk i min egen kildekode? Det eksisterer faktisk kun én løsning på dette problemet: selve programmeringsspråket må være på norsk!
 
-I andre del av denne artikkelen vil jeg designe og implementere et norsk programmeringsspråk! Det er bare å begynne å glede, grue eller gruglede seg.
+I artikkelens andre del kommer jeg til å designe og implementere et norsk programmeringsspråk. Det er bare å begynne å glede, grue eller gruglede seg.
