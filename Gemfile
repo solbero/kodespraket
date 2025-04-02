@@ -1,6 +1,6 @@
-source "https://rubygems.org"
+ruby "~>3.3.0"
 
-gem "jekyll-theme-monty", "~> 1.1"
+source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do

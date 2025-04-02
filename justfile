@@ -9,3 +9,6 @@ build:
 
 clean:
     bundle exec jekyll clean
+
+update:
+    bundle update
