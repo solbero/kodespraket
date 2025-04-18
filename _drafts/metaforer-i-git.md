@@ -6,7 +6,7 @@ image:
 
 
 
-George Lakoff 
+George Lakoff
 
 I konseptuell metaforteori er det alltid et kildedomene og et måldomene. Kildedomenet er et avgrenset, sammenhengende, konkret og universelt erfarings- og kunnskapsområde. Måldomene, på den andre hånd, er ofte abstrakt og utflytende.
 
@@ -22,4 +22,4 @@ Hadde vi vært mulvarper så hadde denne erfaringsmodellen vært speilvendt. Rø
 
 Vi kan bytte ut tre som kildedomene med andre kildedomenet som har
 
-Hva skjer om vi bytter metafor? Hva om vi i stedet for tre som 
+Hva skjer om vi bytter metafor? Hva om vi i stedet for tre som kildedomene brukte et annet kildedomene som er lignende? Foreksempel kunne vi brukt elser som kildedomene.
