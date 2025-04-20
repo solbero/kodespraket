@@ -4,12 +4,13 @@ title: Metaforer i Git
 image:
 ---
 
-Jeg husker første gang jeg hørt om metaforer, det var i en norsktime i fjerde klasse. Eksempelet lærerinnen skrev på tavlen var: «Ole er en løve». Hun forklarte oss elever at setningen ikke betød at Ole faktisk var en løve, men at det var noen egenskaper ved en løve, slik som mot og edelhet, som Ole hadde. Hun fortale oss også at metaforer er noe som blir brukt i bøker for å gjøre teksten mer levende og interessant.
+Har du noen gang tenkt over at Git proppfull av metaforer. Disse metaforene hjelper utviklere å resonnere
 
-Slik forstsatte jeg å forstå metaforer, metaforer var lingvistiske verktøy for forfattere, journalister og låtskribenter. De var rosinen i prosa, krydder i kronikker og fargeklatter i funk.
+Jeg husker første gang jeg hørt om metaforer, det var i en norsktime i fjerde klasse. Eksempelet lærerinnen min skrev på tavlen var: «Ole er en løve». Hun forklarte oss elever at setningen ikke betød at Ole faktisk var en løve, men at det var noen egenskaper ved en løve, slik som mot og edelhet, som Ole hadde. Hun fortale også at metaforer er et språklig verktøy som blir brukt i tekster for å gjøre mer mer levende og interessante.
+
+Slik forstsatte jeg å forstå metaforer frem til voksen alder. Metaforer er noe som hovedsakelig folks som jobber med lage tekst bruker, slik som forfattere, journalister og låtskribenter.
 
 
-George Lakoff
 
 I konseptuell metaforteori er det alltid et kildedomene og et måldomene. Kildedomenet er et avgrenset, sammenhengende, konkret og universelt erfarings- og kunnskapsområde. Måldomene, på den andre hånd, er ofte abstrakt og utflytende.
 
