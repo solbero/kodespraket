@@ -4,13 +4,14 @@ title: Metaforer i Git
 image:
 ---
 
-Har du noen gang tenkt over at Git proppfull av metaforer. Disse metaforene hjelper utviklere å resonnere
+Har du noen gang tenkt over at Git og andre versjonskontrollprogram er proppfull av konseptuelle metaforer? Det er disse konseptuelle metaforen som gjør det mulig for utviklere å resonnere om og tenke rundt kode.
 
 Jeg husker første gang jeg hørt om metaforer, det var i en norsktime i fjerde klasse. Eksempelet lærerinnen min skrev på tavlen var: «Ole er en løve». Hun forklarte oss elever at setningen ikke betød at Ole faktisk var en løve, men at det var noen egenskaper ved en løve, slik som mot og edelhet, som Ole hadde. Hun fortale også at metaforer er et språklig verktøy som blir brukt i tekster for å gjøre mer mer levende og interessante.
 
 Slik forstsatte jeg å forstå metaforer frem til voksen alder. Metaforer er noe som hovedsakelig folks som jobber med lage tekst bruker, slik som forfattere, journalister og låtskribenter.
 
-
+På 
+høyde er mengde.
 
 I konseptuell metaforteori er det alltid et kildedomene og et måldomene. Kildedomenet er et avgrenset, sammenhengende, konkret og universelt erfarings- og kunnskapsområde. Måldomene, på den andre hånd, er ofte abstrakt og utflytende.
 
