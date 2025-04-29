@@ -4,16 +4,16 @@ title: Metaforer i Git
 image:
 ---
 
-Har du noen gang tenkt over at Git og andre versjonskontrollprogram er proppfull av konseptuelle metaforer? Det er disse konseptuelle metaforen som gjør det mulig for utviklere å resonnere om og tenke rundt kode.
+Har du noen gang tenkt over at Git er proppfull av metaforer? Og at det er disse metaforen som gjør det mulig for utviklere å ressonnere om kodeversjonering og versjonskontroll.
 
 Jeg husker første gang jeg hørt om metaforer, det var i en norsktime i fjerde klasse. Eksempelet lærerinnen min skrev på tavlen var: «Ole er en løve». Hun forklarte oss elever at setningen ikke betød at Ole faktisk var en løve, men at det var noen egenskaper ved en løve, slik som mot og edelhet, som Ole hadde. Hun fortale også at metaforer er et språklig verktøy som blir brukt i tekster for å gjøre mer mer levende og interessante.
 
-Slik forstsatte jeg å forstå metaforer frem til voksen alder. Metaforer er noe som hovedsakelig folks som jobber med lage tekst bruker, slik som forfattere, journalister og låtskribenter.
+Slik forstsatte jeg å forstå metaforer frem til voksen alder. Metaforer er noe for mennekser som beskjeftiger seg med å skrive tekster, slik som forfattere, journalister og låtskribenter. Min forståelse av metaforer forandret seg helt da jeg leste boken _Hverdagslivets metforer_ av George Lakoff og Mark Johnson. I denne boken argumenterer forfatterne for at hele vår forståelse av abstrakte konsepter bygger på metaforer
 
-På 
+I konseptuell metaforteori er det alltid et kildedomene og et måldomene. Kildedomenet er et avgrenset, sammenhengende, konkret og allmenne erfarings- eller kunnskapsområde. Måldomenet, på den andre hånd, er utflytende, oppdelt, abstrakt og spesifikt erfarings- eller kunnskapsområder.
+
+På
 høyde er mengde.
-
-I konseptuell metaforteori er det alltid et kildedomene og et måldomene. Kildedomenet er et avgrenset, sammenhengende, konkret og universelt erfarings- og kunnskapsområde. Måldomene, på den andre hånd, er ofte abstrakt og utflytende.
 
 Med tanke på versjonskontroll i Git så er kildedomene trær som brukes til å forstå kode. Den overgriperne korrespondansen mellom kilde- og mål noteres da som KODE ER ET TRE.
 
