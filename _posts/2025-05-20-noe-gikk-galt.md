@@ -15,6 +15,6 @@ Mens jeg starter applikasjonen om igjen så kommer jeg til å tenke på en scene
 
 Det virker helt klart tåpelig å forklare hvorfor opium induserer søvn ved å peke på at opium må ha søvndyssende egenskaper. Det faktisk like tåpelig som å vise en feilmelding som sier at det har oppstått en feil. Begge eksemplene er sirkelslutninger: de peker på sin egen konklusjon som premiss for konklusjonen. Derfor er det lett å overse at Mr. Geronte faktisk har tatt det første steget mot å erkjenne hvorfor opium får mennesker til å sove.
 
-Det er først når noen påstår at opium har søvndyssende egenskaper at det er mulig å begynne å lete etter de påståtte egenskapene egenskaper som induserer søvn. Det var dette faktum som gjorde at jeg tenkte på scenen når jeg fikk den tåpelige feilmeldingen. Det er nemlig først når jeg vet at noe har gått galt at jeg begynne å lete etter årsakene til at det gikk galt.
+Det er først når noen påstår at opium har søvndyssende egenskaper at det er mulig å begynne å lete etter de påståtte egenskaper som induserer søvn. Det var dette faktum som gjorde at jeg kom i tanker om ballettkomedien til Molière når jeg fikk fikk feilmeldingen «Noe gikk galt.» Det er nemlig først når jeg vet at noe har gått galt at jeg begynne å lete etter årsakene til at det gikk galt.
 
 [^1]: Du kan lese en [engelsk oversettelse av scenen på Posjekt Gutenberg](https://www.gutenberg.org/files/9070/9070-h/9070-h.htm#TN).
