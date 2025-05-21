@@ -11,7 +11,7 @@ Plutselig er den der. Der, midt på på skjermen! Feilmeldingen med den mest ubr
   <figcaption>En klassisk feilmelding fra Windows Vista-tiden.</figcaption>
 </figure>
 
-Mens jeg starter applikasjonen om igjen så kommer jeg til å tenke på en scene i ballettkomedien _Den innbilt syke_[^1], skrevet av Molière. I scenen blir Mr. Geronte eksaminert for å bli tatt opp i legestanden i Paris. En av doktorene som eksaminerer ham spør: «Hva er årsaken og grunnen til at opium induserer søvn?» Til dette spørsmålet svarer Geronte: «Det er fordi at opium har søvndyssende egenskaper.» Doktoren som stilte spørsmålet sier begeistret: «Det er et riktig, riktig, riktig god svar.»
+Mens jeg starter applikasjonen om igjen så kommer jeg til å tenke på en scene i ballettkomedien _Den innbilt syke_[^1], skrevet av Molière. I scenen blir Mr. Geronte eksaminert for å bli tatt opp i legestanden i Paris. En av doktorene som eksaminerer ham spør: «Hva er årsaken og grunnen til at opium induserer søvn?» Til dette spørsmålet svarer Geronte: «Det er fordi at opium har søvndyssende egenskaper.» Doktoren som stilte spørsmålet sier begeistret: «Det er et riktig, riktig, riktig godt svar.»
 
 Det virker helt klart tåpelig å forklare hvorfor opium induserer søvn ved å peke på at opium må ha søvndyssende egenskaper. Det faktisk like tåpelig som å vise en feilmelding som sier at det har oppstått en feil. Begge eksemplene er sirkelslutninger: de peker på sin egen konklusjon som premiss for konklusjonen. Derfor er det lett å overse at Mr. Geronte faktisk har tatt det første steget mot å erkjenne hvorfor opium får mennesker til å sove.
 
