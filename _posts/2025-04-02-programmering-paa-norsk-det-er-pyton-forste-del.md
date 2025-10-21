@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Koding på norsk, det er pyton! — Første del
+title: Koding på norsk, er det pyton? — Første del
 image: /assets/images/demonstrasjon-for-norsk.webp
 ---
 
