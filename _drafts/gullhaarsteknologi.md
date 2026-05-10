@@ -7,7 +7,7 @@ image: /assets/images/norton.webp
 Hva skjer nå du arver en snart 60 år gammel, britisk motorsykkel? Da blir du motorsykkelmekaniker om du vil det eller ikke.
 
 <figure>
-  <img src="/assets/images/norton.webp" alt="Tegnet illustrasjon som viser en Norton Commando 1979-modell motorsykkel.">
+  <img src="/assets/images/norton.webp" alt="Tegnet illustrasjon som viser en Norton Commando 1970-modell motorsykkel.">
   <figcaption>Min Norton Commando 1970-modell.</figcaption>
 </figure>
 
