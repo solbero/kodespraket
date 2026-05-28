@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strikking er programmering
+author: Njord A. Solberg
 image: /assets/images/jacquard-vevstol.webp
 ---
 

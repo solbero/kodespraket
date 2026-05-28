@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gullhårsteknologi
+author: Njord A. Solberg
 image: /assets/images/norton.webp
 ---
 

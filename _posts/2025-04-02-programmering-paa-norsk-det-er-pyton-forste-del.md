@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Koding på norsk, er det pyton? — Første del
+author: Njord A. Solberg
 image: /assets/images/demonstrasjon-for-norsk.webp
 ---
 

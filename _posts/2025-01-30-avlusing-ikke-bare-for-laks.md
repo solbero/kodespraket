@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Avlusing, ikke bare for laks
+author: Njord A. Solberg
 image: /assets/images/lakselus-paa-apple-128.png
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Noe gikk galt
+author: Njord A. Solberg
 image: /assets/images/feilmelding.webp
 ---
 

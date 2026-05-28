@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Metaforer i Git
-image:
+author: Njord A. Solberg
+image: /assets/images/kilde-og-maaldomene.webp
 ---
 
 Har du noen gang tenkt over at versjonskontrollsystemet Git er proppfull av metaforer? Og at det er metaforene som gjør det mulig for utviklere å ressonnere om det abstrakte og komplekse konseptet versjonskontroll?

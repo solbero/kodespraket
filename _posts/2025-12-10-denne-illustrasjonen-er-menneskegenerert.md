@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Denne illustrasjonen er menneskegenerert
+author: Njord A. Solberg
 image: /assets/images/remarkable.webp
 ---
 

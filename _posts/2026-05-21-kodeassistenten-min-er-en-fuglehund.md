@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kodeassistenten min er en fuglehund
+author: Njord A. Solberg
 image: /assets/images/fuglehund.webp
 ---
 
