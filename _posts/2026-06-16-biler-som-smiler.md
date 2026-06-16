@@ -2,7 +2,7 @@
 layout: post
 title: Biler som smiler og KI som snakker
 author: Njord A. Solberg
-image:
+image: /assets/images/biler.webp
 ---
 
 Madammen og jeg kjøpte en ny bil for nylig. Et av kriteriene til madammen var at bilen skulle se glad ut. Hun hadde ikke lyst til å kjøre rundt i en bil som så sint eller sur ut. Du har sikkert lagt merke til det samme selv – at biler har ansiktsuttrykk[^1].
@@ -17,4 +17,4 @@ Vi mennesker er skrudd sammen slik at vi ser ansikter der det ikke er noen ansik
 
 Slik er det også med språk. Vi mennesker knytter med en gang intelligens til bruken av språk. Det er dette som narrer oss i møte med store språkmodeller – også kjent som LLM-er. Vi kan ikke la være med å se LLM-en som noe annet enn et intelligent vesen, på samme måte som vi ikke klarer å la være å se et ansikt i et bilfront. Men det er ingen intelligens på andre siden av chatten — det er kun vår egen hjerne som narrer oss.
 
-[^1]: Fenomenet med at tilfeldige sanseinntrykk virker meningsfulle heter pareidoli.
+[^1]: Det kognitive fenomenet med at tilfeldige sanseinntrykk virker meningsfulle heter pareidoli.
